@@ -1,3 +1,4 @@
+![1_NF6AdPk6sOMNNbQE5glvEQ](https://user-images.githubusercontent.com/73627734/204699969-605d68f2-4193-41b4-89cb-6a2b00a43fd3.png)
 # NLP_Sentiment_Analysis
 #### Overview       
 Consumers will give their business to brands they trust, and emotions are at the heart of this trust. When people identify with a brand, it’s easy for them to support the company. Marketers work hard to build and strengthen emotional ties to help consumers feel they have a vested interest in the brand’s success.
