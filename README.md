@@ -52,4 +52,8 @@ The type of product manufactured by a particular company, either Google or Apple
 ##### Sentiment
 An opinion based on the a consumers interaction with a product or service provided by a brand ie. a positive emotion, negative, or a neutral emotion.
 ## 3. Data Preparation
-
+The objective of this step is to select data and clean noise those are less relevant to find the    sentiment of tweets such as punctuation, special characters, numbers, and terms which don’t carry much weightage in context to the text. We shall look at the following:
+- Validity: We checked for duplicates and found 22 duplicates.We dealt with these duplicates by dropping them.
+- Consistency: We verified that the values of various columns are consistent.
+- Completeness: We checked for completeness of the data and found that there are two columns with missing data. The tweet column had only one missing value, and we dealt with it by dropping that row. The sentiment column had 5802 missing values and since that is more than half of our data, we kept it.
+- Uniformity: The columns had very long names, so we renamed them, giving each column short and precise names. We them moved on to removing all the capitalization, punctuation and stop words within our data
