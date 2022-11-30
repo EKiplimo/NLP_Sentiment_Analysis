@@ -17,7 +17,13 @@ This was quite an interesting bit, where we got to prepare the data for modeling
 -	Handle the duplicated data by dropping them.
 -	Remove capitalization, punctuation and stop words
 -	Fill the missing values of sentiments with their appropriate values
-
+## Feature engineering
+Feature engineering is the process of selecting and transforming variables when creating a predictive model using machine learning. It's a good way to enhance predictive models as it involves isolating key information, highlighting patterns and bringing in someone with domain expertise.
+In this section we carried out these steps:
+-	Tokenization
+-	Lemmatization
+-	Feature distribution 
+-	Univariate and bivariate analysis
 ## Modelling
 ## Evaluation
 ## Conclusion
